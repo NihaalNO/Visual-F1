@@ -23,7 +23,7 @@
 
 ## Project Overview
 
-**Visual-F1** is a telemetry data-visualization project structured around drivers, tracks, and seasons. The repository collects, organizes and visualizes telemetry and lap data for Formula 1 circuits (tracks), beginning from the 2016 season onward. Visualizations are stored per track and per year and are intended to support analysis, storytelling, and downstream machine learning tasks (e.g., predicting lap times, pit strategy outcomes, or tire degradation).
+**Visual-F1** is a telemetry data-visualization project structured around drivers, tracks, and seasons. The repository collects, organizes and visualizes telemetry and lap data for Formula 1 circuits (tracks), beginning from the 2018 season onward. Visualizations are stored per track and per year and are intended to support analysis, storytelling, and downstream machine learning tasks (e.g., predicting lap times, pit strategy outcomes, or tire degradation).
 
 
 ## Motivation
@@ -54,17 +54,17 @@ Visual-F1/
 │   ├── Lewis_Hamilton/
 │   │   ├── Spanish_GP/
 │   │   │   ├── output_images/
-│   │   │   │   ├── 2016.png
-│   │   │   │   ├── 2017.png
+│   │   │   │   ├── 2018.png
+│   │   │   │   ├── 2019.png
 │   │   │   │   ├── 2025.png
-│   │   │   ├── spanish_gp-2016.ipynb
-│   │   │   ├── spanish_gp-2017.ipynb
+│   │   │   ├── spanish_gp-2018.ipynb
+│   │   │   ├── spanish_gp-2019.ipynb
 │   │   │   ├── spanish_gp-2025.ipynb
 │   │   ├── British_GP/
 │   │   │   ├── output_images/
-│   │   │   │   ├── 2016.png
-│   │   │   │   ├── 2020.png
-│   │   │   ├── british_gp-2016.ipynb
+│   │   │   │   ├── 2018.png
+│   │   │   │   ├── 2017.png
+│   │   │   ├── british_gp-2018.ipynb
 │   │   │   ├── british_gp-2020.ipynb
 ```
 ## Reference & Inspirations
