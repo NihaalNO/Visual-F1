@@ -1,7 +1,4 @@
 # Visual-F1
-
-**A telemetry data-visualization hub organized by Driver → Track → Year**
-
 ---
 
 ## Table of Contents
