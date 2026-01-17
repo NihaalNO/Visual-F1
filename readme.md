@@ -309,7 +309,7 @@ This project is created for **educational and research purposes**, focusing on d
 ## Contact
 
 ### Project Maintainer
-- **GitHub**: [Your GitHub Profile](https://github.com/NihaalNO)
+- **GitHub**: [Nihaal N O](https://github.com/NihaalNO)
 - **Email**: odathernihaal@gmail.com
 
 ### Getting Help
