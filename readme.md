@@ -243,17 +243,6 @@ All generated visualizations are automatically saved to the `output_images/` fol
 
 ## Future Vision (ML & Predictions)
 
-The visualized and processed outputs from **Visual-F1** are intentionally organized so they can be used as training inputs for machine learning models. Some concrete ML possibilities include:
-
-- **Lap time prediction**: Predict lap times using telemetry, sector performance, and tyre data.
-- **Pit strategy simulation**: Estimate race outcome probabilities under different pit strategies.
-- **Tyre degradation modelling**: Model performance drop-offs across stints and compounds.
-- **Driver performance profiling**: Learn driver-specific racing patterns from telemetry.
-
----
-
-## Future Vision (ML & Predictions)
-
 One of the core objectives of **Ham-Hub** is to create a **machine learning-ready dataset** that can power predictive models for Formula 1 racing. The structured, labeled outputs from this project are intentionally designed to support various ML applications.
 
 ### Planned Machine Learning Applications
