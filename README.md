@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-[Report Bug](https://github.com/yourusername/Ham-Hub/issues) · [Request Feature](https://github.com/yourusername/Ham-Hub/issues) · [Documentation](https://github.com/yourusername/Ham-Hub/wiki)
+[Report Bug](https://github.com/NihaalNO/Visual-F1/issues) · [Request Feature](https://github.com/NihaalNO/Visual-F1/issues) · [Documentation](https://github.com/NihaalNO/Visual-F1/wiki)
 
 </div>
 
